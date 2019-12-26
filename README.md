@@ -1,3 +1,15 @@
-# Video Chat Sync
+# WebRTC Video Chat
 
-WIP
+A simple chatroom website where you can watch synchronized videos with your friends. Create a room, invite people, have fun.
+
+## Built With
+
+* Vue & Webpack
+
+* WebRTC
+
+* Express
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE)
