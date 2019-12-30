@@ -6,8 +6,6 @@ A simple chatroom website where you can watch synchronized videos with your frie
 
 * Vue & Webpack
 
-* WebRTC
-
 * Express
 
 ## License
